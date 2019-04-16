@@ -76,7 +76,7 @@
   }
   ```
 
-  具体实现代码可查看[springboot-webflux](https://github.com/xiaoyangW/spring-webflux-learn-example/tree/master/springboot-webflux) 
+  具体实现代码可查看[springboot-webflux](https://github.com/zhaoshijie/spring-webflux-learn-example/tree/master/springboot-webflux) 
 
 - 基于功能
 
@@ -129,5 +129,5 @@
   }
   ```
   
-  具体实现代码可查看[springboot-webflux-functional](https://github.com/xiaoyangW/spring-webflux-learn-example/tree/master/springboot-webflux-functional) 
-  [博客](http://www.wxiaoyang.top/2018/06/16/webflux/)
+  具体实现代码可查看[springboot-webflux-functional](https://github.com/zhaoshijie/spring-webflux-learn-example/tree/master/springboot-webflux-functional) 
+        可参考这篇，点击博客-->[博客](http://www.wxiaoyang.top/2018/06/16/webflux/)
